@@ -1,0 +1,1 @@
+// Your src/store/emailStore.ts content goes here

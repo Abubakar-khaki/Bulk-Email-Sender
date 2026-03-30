@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+psycopg2
+redis
+celery
+python-jose[cryptography]
+email-validator
+pytest
+httpx
+pytest-asyncio
+starlette
